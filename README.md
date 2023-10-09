@@ -1,2 +1,3 @@
-# PrepCourseHenry
-First repository. Practising about it 
+Luciano Perez Day
+
+First time creating a repository and cloning it into my desktop.
